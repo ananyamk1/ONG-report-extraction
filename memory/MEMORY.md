@@ -1,0 +1,1 @@
+- [ONG Pipeline Project](project_ong_pipeline.md) — GenAI PDF pipeline for Utah FORGE Well 78B-32 drilling reports; dataset, architecture, research gap
